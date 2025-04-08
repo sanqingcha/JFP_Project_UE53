@@ -72,3 +72,9 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+#other
+/JFP_Project53/Build
+/JFP_Project53/DerivedDataCache
+/JFP_Project53/Intermediate
+/JFP_Project53/Saved
